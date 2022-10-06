@@ -18,3 +18,4 @@ class Agenda:
       self.pessoaD[nome].mostrar()
     else:
       print(f"{nome} -> não existe!")
+      # print(self.pessoaD)      # print(self.pessoa) #se quiser ver o dicionário em memoria

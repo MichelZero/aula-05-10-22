@@ -13,5 +13,11 @@ a1.add("Pedro", "email@contato.com", "rua sem saída", "JP")
 
 # busca
 a1.buscar("Davi")
-a1.buscar("davi")
+a1.buscar("David")
 a1.buscar("paulo")
+
+
+# desafio
+# 1- explicar o que aconteceu que na minha busca só imprimi duas 
+# informações da pessoa? 
+# 2- apresentem uma solução a esse problema.
