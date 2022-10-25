@@ -15,6 +15,7 @@ a1.add("Pedro", "email@contato.com", "rua sem saída", "JP")
 a1.buscar("Davi")
 a1.buscar("David")
 a1.buscar("paulo")
+a1.buscar("pedro")
 
 
 # desafio
