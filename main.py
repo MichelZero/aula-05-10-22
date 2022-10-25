@@ -16,6 +16,7 @@ a1.buscar("Davi")
 a1.buscar("David")
 a1.buscar("paulo")
 a1.buscar("pedro")
+a1.buscar("Pedro")
 
 
 # desafio
