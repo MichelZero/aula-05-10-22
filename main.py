@@ -8,7 +8,7 @@
 from agenda import Agenda as A
 
 a1 = A()
-a1.add("Davi", "email@contato.com", "rua da casas", "Cajazeiras")
+a1.add("Davi", "eelessandro@contato.com", "rua da casas", "Cajazeiras")
 a1.add("Pedro", "email@contato.com", "rua sem saída", "JP")
 
 # busca
